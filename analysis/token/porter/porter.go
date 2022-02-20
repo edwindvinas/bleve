@@ -20,7 +20,7 @@ import (
 	"github.com/edwindvinas/bleve/analysis"
 	"github.com/edwindvinas/bleve/registry"
 
-	"github.com/blevesearch/go-porterstemmer"
+	"github.com/edwindvinas/go-porterstemmer"
 )
 
 const Name = "stemmer_porter"
