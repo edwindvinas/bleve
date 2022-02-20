@@ -18,7 +18,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/blevesearch/bleve/numeric"
+	"github.com/edwindvinas/bleve/numeric"
 )
 
 var pcodedvalues []numeric.PrefixCoded

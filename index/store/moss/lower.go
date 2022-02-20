@@ -25,8 +25,8 @@ import (
 
 	"github.com/couchbase/moss"
 
-	"github.com/blevesearch/bleve/index/store"
-	"github.com/blevesearch/bleve/registry"
+	"github.com/edwindvinas/bleve/index/store"
+	"github.com/edwindvinas/bleve/registry"
 )
 
 func initLowerLevelStore(

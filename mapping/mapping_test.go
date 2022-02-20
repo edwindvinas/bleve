@@ -20,10 +20,10 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/blevesearch/bleve/analysis/tokenizer/exception"
-	"github.com/blevesearch/bleve/analysis/tokenizer/regexp"
-	"github.com/blevesearch/bleve/document"
-	"github.com/blevesearch/bleve/numeric"
+	"github.com/edwindvinas/bleve/analysis/tokenizer/exception"
+	"github.com/edwindvinas/bleve/analysis/tokenizer/regexp"
+	"github.com/edwindvinas/bleve/document"
+	"github.com/edwindvinas/bleve/numeric"
 )
 
 var mappingSource = []byte(`{

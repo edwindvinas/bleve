@@ -25,11 +25,11 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/blevesearch/bleve/analysis"
-	"github.com/blevesearch/bleve/document"
-	"github.com/blevesearch/bleve/index"
-	"github.com/blevesearch/bleve/index/store"
-	"github.com/blevesearch/bleve/registry"
+	"github.com/edwindvinas/bleve/analysis"
+	"github.com/edwindvinas/bleve/document"
+	"github.com/edwindvinas/bleve/index"
+	"github.com/edwindvinas/bleve/index/store"
+	"github.com/edwindvinas/bleve/registry"
 
 	"github.com/golang/protobuf/proto"
 )

@@ -19,7 +19,7 @@ import (
 	"regexp"
 	"testing"
 
-	"github.com/blevesearch/bleve/analysis"
+	"github.com/edwindvinas/bleve/analysis"
 )
 
 func TestBoundary(t *testing.T) {

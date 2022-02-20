@@ -15,11 +15,11 @@
 package searcher
 
 import (
-	"github.com/blevesearch/bleve/document"
-	"github.com/blevesearch/bleve/geo"
-	"github.com/blevesearch/bleve/index"
-	"github.com/blevesearch/bleve/numeric"
-	"github.com/blevesearch/bleve/search"
+	"github.com/edwindvinas/bleve/document"
+	"github.com/edwindvinas/bleve/geo"
+	"github.com/edwindvinas/bleve/index"
+	"github.com/edwindvinas/bleve/numeric"
+	"github.com/edwindvinas/bleve/search"
 )
 
 func NewGeoBoundingBoxSearcher(indexReader index.IndexReader, minLon, minLat,

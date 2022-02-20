@@ -17,7 +17,7 @@ package geo
 import (
 	"math"
 
-	"github.com/blevesearch/bleve/numeric"
+	"github.com/edwindvinas/bleve/numeric"
 )
 
 // GeoBits is the number of bits used for a single geo point

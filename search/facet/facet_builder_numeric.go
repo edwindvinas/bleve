@@ -17,8 +17,8 @@ package facet
 import (
 	"sort"
 
-	"github.com/blevesearch/bleve/numeric"
-	"github.com/blevesearch/bleve/search"
+	"github.com/edwindvinas/bleve/numeric"
+	"github.com/edwindvinas/bleve/search"
 )
 
 type numericRange struct {

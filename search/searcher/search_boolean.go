@@ -17,9 +17,9 @@ package searcher
 import (
 	"math"
 
-	"github.com/blevesearch/bleve/index"
-	"github.com/blevesearch/bleve/search"
-	"github.com/blevesearch/bleve/search/scorer"
+	"github.com/edwindvinas/bleve/index"
+	"github.com/edwindvinas/bleve/search"
+	"github.com/edwindvinas/bleve/search/scorer"
 )
 
 type BooleanSearcher struct {

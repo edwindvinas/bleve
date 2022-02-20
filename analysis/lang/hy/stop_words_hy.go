@@ -1,8 +1,8 @@
 package hy
 
 import (
-	"github.com/blevesearch/bleve/analysis"
-	"github.com/blevesearch/bleve/registry"
+	"github.com/edwindvinas/bleve/analysis"
+	"github.com/edwindvinas/bleve/registry"
 )
 
 const StopName = "stop_hy"

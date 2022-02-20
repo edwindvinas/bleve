@@ -22,12 +22,12 @@
 package en
 
 import (
-	"github.com/blevesearch/bleve/analysis"
-	"github.com/blevesearch/bleve/registry"
+	"github.com/edwindvinas/bleve/analysis"
+	"github.com/edwindvinas/bleve/registry"
 
-	"github.com/blevesearch/bleve/analysis/token/lowercase"
-	"github.com/blevesearch/bleve/analysis/token/porter"
-	"github.com/blevesearch/bleve/analysis/tokenizer/unicode"
+	"github.com/edwindvinas/bleve/analysis/token/lowercase"
+	"github.com/edwindvinas/bleve/analysis/token/porter"
+	"github.com/edwindvinas/bleve/analysis/tokenizer/unicode"
 )
 
 const AnalyzerName = "en"

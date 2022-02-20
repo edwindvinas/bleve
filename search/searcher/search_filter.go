@@ -15,8 +15,8 @@
 package searcher
 
 import (
-	"github.com/blevesearch/bleve/index"
-	"github.com/blevesearch/bleve/search"
+	"github.com/edwindvinas/bleve/index"
+	"github.com/edwindvinas/bleve/search"
 )
 
 // FilterFunc defines a function which can filter documents

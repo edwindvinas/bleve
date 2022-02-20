@@ -15,8 +15,8 @@
 package highlight
 
 import (
-	"github.com/blevesearch/bleve/document"
-	"github.com/blevesearch/bleve/search"
+	"github.com/edwindvinas/bleve/document"
+	"github.com/edwindvinas/bleve/search"
 )
 
 type Fragment struct {

@@ -17,7 +17,7 @@ package moss
 import (
 	"encoding/json"
 
-	"github.com/blevesearch/bleve/index/store"
+	"github.com/edwindvinas/bleve/index/store"
 )
 
 type stats struct {

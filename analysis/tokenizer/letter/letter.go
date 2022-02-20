@@ -17,9 +17,9 @@ package letter
 import (
 	"unicode"
 
-	"github.com/blevesearch/bleve/analysis"
-	"github.com/blevesearch/bleve/analysis/tokenizer/character"
-	"github.com/blevesearch/bleve/registry"
+	"github.com/edwindvinas/bleve/analysis"
+	"github.com/edwindvinas/bleve/analysis/tokenizer/character"
+	"github.com/edwindvinas/bleve/registry"
 )
 
 const Name = "letter"

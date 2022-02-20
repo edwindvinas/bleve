@@ -17,9 +17,9 @@ package document
 import (
 	"fmt"
 
-	"github.com/blevesearch/bleve/analysis"
-	"github.com/blevesearch/bleve/geo"
-	"github.com/blevesearch/bleve/numeric"
+	"github.com/edwindvinas/bleve/analysis"
+	"github.com/edwindvinas/bleve/geo"
+	"github.com/edwindvinas/bleve/numeric"
 )
 
 var GeoPrecisionStep uint = 9

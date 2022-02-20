@@ -17,8 +17,8 @@ package unicodenorm
 import (
 	"fmt"
 
-	"github.com/blevesearch/bleve/analysis"
-	"github.com/blevesearch/bleve/registry"
+	"github.com/edwindvinas/bleve/analysis"
+	"github.com/edwindvinas/bleve/registry"
 	"golang.org/x/text/unicode/norm"
 )
 

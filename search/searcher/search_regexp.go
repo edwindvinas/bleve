@@ -17,8 +17,8 @@ package searcher
 import (
 	"regexp"
 
-	"github.com/blevesearch/bleve/index"
-	"github.com/blevesearch/bleve/search"
+	"github.com/edwindvinas/bleve/index"
+	"github.com/edwindvinas/bleve/search"
 )
 
 // NewRegexpSearcher creates a searcher which will match documents that

@@ -20,7 +20,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/blevesearch/bleve/index/store"
+	"github.com/edwindvinas/bleve/index/store"
 )
 
 // tests around the correct behavior of iterators

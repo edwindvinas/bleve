@@ -20,11 +20,11 @@ import (
 	"log"
 	"time"
 
-	"github.com/blevesearch/bleve/index"
-	"github.com/blevesearch/bleve/index/store/gtreap"
-	"github.com/blevesearch/bleve/index/upsidedown"
-	"github.com/blevesearch/bleve/registry"
-	"github.com/blevesearch/bleve/search/highlight/highlighter/html"
+	"github.com/edwindvinas/bleve/index"
+	"github.com/edwindvinas/bleve/index/store/gtreap"
+	"github.com/edwindvinas/bleve/index/upsidedown"
+	"github.com/edwindvinas/bleve/registry"
+	"github.com/edwindvinas/bleve/search/highlight/highlighter/html"
 )
 
 var bleveExpVar = expvar.NewMap("bleve")

@@ -17,8 +17,8 @@ package search
 import (
 	"fmt"
 
-	"github.com/blevesearch/bleve/document"
-	"github.com/blevesearch/bleve/index"
+	"github.com/edwindvinas/bleve/document"
+	"github.com/edwindvinas/bleve/index"
 )
 
 type ArrayPositions []uint64

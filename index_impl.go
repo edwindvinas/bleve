@@ -24,16 +24,16 @@ import (
 
 	"golang.org/x/net/context"
 
-	"github.com/blevesearch/bleve/document"
-	"github.com/blevesearch/bleve/index"
-	"github.com/blevesearch/bleve/index/store"
-	"github.com/blevesearch/bleve/index/upsidedown"
-	"github.com/blevesearch/bleve/mapping"
-	"github.com/blevesearch/bleve/registry"
-	"github.com/blevesearch/bleve/search"
-	"github.com/blevesearch/bleve/search/collector"
-	"github.com/blevesearch/bleve/search/facet"
-	"github.com/blevesearch/bleve/search/highlight"
+	"github.com/edwindvinas/bleve/document"
+	"github.com/edwindvinas/bleve/index"
+	"github.com/edwindvinas/bleve/index/store"
+	"github.com/edwindvinas/bleve/index/upsidedown"
+	"github.com/edwindvinas/bleve/mapping"
+	"github.com/edwindvinas/bleve/registry"
+	"github.com/edwindvinas/bleve/search"
+	"github.com/edwindvinas/bleve/search/collector"
+	"github.com/edwindvinas/bleve/search/facet"
+	"github.com/edwindvinas/bleve/search/highlight"
 )
 
 type indexImpl struct {

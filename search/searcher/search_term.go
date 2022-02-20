@@ -15,9 +15,9 @@
 package searcher
 
 import (
-	"github.com/blevesearch/bleve/index"
-	"github.com/blevesearch/bleve/search"
-	"github.com/blevesearch/bleve/search/scorer"
+	"github.com/edwindvinas/bleve/index"
+	"github.com/edwindvinas/bleve/search"
+	"github.com/edwindvinas/bleve/search/scorer"
 )
 
 type TermSearcher struct {

@@ -14,7 +14,7 @@
 
 package index
 
-import "github.com/blevesearch/bleve/document"
+import "github.com/edwindvinas/bleve/document"
 
 type IndexRow interface {
 	KeySize() int
